@@ -3,7 +3,7 @@ The file `users.js` contains the following code, which sets up the array `users`
 ```javascript
 const users = [
   {
-    username: 'AzureDiamond',
+    username: 'exampleuser',
     password: 'hunter2',
   },
   {
